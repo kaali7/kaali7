@@ -56,45 +56,11 @@ I don’t just train models — I build AI systems end-to-end.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏋️ AI-Powered Gym Workout Planner
-Production-grade ML system for personalized workout generation.
-
-- ML-based workout recommendation engine  
-- FastAPI backend for model inference  
-- React (Vite) + Tailwind UI  
-- React Native mobile app  
-- Tauri desktop version  
-- SEO landing page with Next.js  
-- Designed with scalable architecture principles  
-
----
-
-### 🧠 Medical RAG Chatbot
-Domain-specific AI chatbot built using Retrieval-Augmented Generation.
-
-- Generated embeddings using HuggingFaceEmbeddings  
-- Implemented semantic search with FAISS  
-- Integrated Gemini API for context-aware responses  
-- FastAPI backend + React frontend  
-- Designed modular NLP pipeline  
-
----
-
-## 📜 Certification
-
-🎓 CSRBOX Applied AI Internship  
-In association with AICTE & IBM SkillsBuild  
-6-Week Intensive | Applied AI & Agent Systems  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaali7&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaali7&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -110,9 +76,8 @@ In association with AICTE & IBM SkillsBuild
 
 ## 📫 Let’s Connect
 
-📧 your.email@example.com  
-💼 https://linkedin.com/in/yourprofile  
-💻 https://yourportfolio.com  
+📧 ashwiniprajapati411@gmail.com
+💼 https://linkedin.com/in/ashwini369
 
 ---
 
