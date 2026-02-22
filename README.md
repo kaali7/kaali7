@@ -59,8 +59,11 @@ I don’t just train models — I build AI systems end-to-end.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaali7&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaali7&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaali7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaali7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -76,8 +79,14 @@ I don’t just train models — I build AI systems end-to-end.
 
 ## 📫 Let’s Connect
 
-📧 ashwiniprajapati411@gmail.com
-💼 https://linkedin.com/in/ashwini369
+<p align="center">
+  <a href="mailto:ashwiniprajapati411@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashwiniprajapati411@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ashwini369">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwini_Prajapati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
